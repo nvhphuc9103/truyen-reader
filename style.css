@@ -42,7 +42,7 @@ select {
     border: none;
     font-size: 18px;
 
-    width: 500px;      /* chỉnh độ dài */
+    width: 300px;      /* chỉnh độ dài */
     max-width: 90vw;   /* mobile không bị tràn */
 }
 
